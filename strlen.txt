@@ -1,0 +1,17 @@
+# Description
+Counts the length of a line, adds it as a number just below that line.
+Changes the values of the registers: +, S, t
+Advised macro name: s
+Requires: compare_char (c)
+
+# Instructions
+Copy first command without newline into register C
+Copy second command without newline into register s
+Copy third command without newline into register t
+Run @s with cursor at the start of the line to measure
+
+vyjPlpo 10k_v*jvy2kOp2jxlxjVd2k
+VypA$$-13k@td2kk
+2j_3kxjp@ckadE a @t_v2l"ld@lxvl"lyVdx@l
+
+aaaaaaaaaaaa

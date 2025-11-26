@@ -1,0 +1,17 @@
+# Description
+Counts the length of a line, adds it as a number just below that line.
+Changes the values of the registers: none
+Advised macro name: c
+Requires: none
+
+# Instructions
+Copy command (first: check equality, second: check inequality) without newline
+Run with cursor on the first line
+There must be at least one line below the second compared character
+
+vyjPlpo_10k_v*jvy2kOp2jxlxjVd2k
+vyjPlpo_01k_v*jvy2kOp2jxlxjVd2k
+
+a
+b
+
